@@ -1,5 +1,7 @@
 # dekoder-vue
 
+Projekt stworzony w ramach nauki VUE
+
 ## Project setup
 ```
 npm install
